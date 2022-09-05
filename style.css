@@ -1,0 +1,26 @@
+body{
+    background-color: pink;
+    align-items: center;
+}
+
+.container{
+    padding: 30px 0;
+    border-radius: 20px;
+    margin: 0 auto;
+    min-height: 60vh;
+    max-width: 80vh;
+    min-width: 60vh;
+
+    max-width: 70vh;
+}
+
+form section {
+    padding: 0 10%;
+    margin-top: 25px;
+}
+
+.all-inputs {
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+}
